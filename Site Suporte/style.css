@@ -1,0 +1,23 @@
+
+body {
+    background-color: rgb(8, 1, 32);
+    align-items: center;
+    }
+h1 {
+   color: rgb(170, 172, 173); 
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+    }
+p {
+    text-align: center;
+   }
+.img-container {
+    text-align: center;
+    display: block;
+   }
+.video-container {
+    text-align: center;
+   }
+iframe {
+    border: 2px white solid;
+   }
